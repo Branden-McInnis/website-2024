@@ -1,7 +1,7 @@
 import { TypeAnimation } from "react-type-animation"
 import './typed.css'
 import branden from '../images/Branden.png'
-const  Typed = () => {
+const Typed = () => {
     return(
         <div className="app">
                                         <img className="branden-image" src={branden} alt="Branden Image"/>
@@ -32,6 +32,7 @@ const  Typed = () => {
                 </div>
 
             </div>
+
         </div>
     )
 }
