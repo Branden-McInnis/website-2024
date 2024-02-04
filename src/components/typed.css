@@ -1,0 +1,15 @@
+
+
+.animated-typing{
+    color: #FF595A;
+}
+
+.container-typed {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
