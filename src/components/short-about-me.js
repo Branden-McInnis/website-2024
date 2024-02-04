@@ -16,9 +16,7 @@ const Abouts = () =>{
                 <div className='seperator'></div>
                 
                     <div className='category-container'>
-                        <button className='languages'>Languages</button>
-                        <button className='frameworks'>Frameworks</button>
-                        <button className='soft-skills'>Soft skills</button>
+                        <p className='languages'>Languages</p>
                     </div>
                 <div className='language-box'>
                         <div className='language-text'>
@@ -33,6 +31,8 @@ const Abouts = () =>{
                             </ul>
                         </div>
                 </div>
+
+                
 
                 <footer>&copy; 2024 Branden McInnis. All rights reserved.</footer>
         </div>
