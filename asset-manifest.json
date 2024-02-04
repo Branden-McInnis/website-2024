@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/website-2024/static/css/main.9464d392.css",
+    "main.js": "/website-2024/static/js/main.4ecd08ed.js",
+    "static/media/Branden.png": "/website-2024/static/media/Branden.560aa4639dfd901f0706.png",
+    "index.html": "/website-2024/index.html",
+    "main.9464d392.css.map": "/website-2024/static/css/main.9464d392.css.map",
+    "main.4ecd08ed.js.map": "/website-2024/static/js/main.4ecd08ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9464d392.css",
+    "static/js/main.4ecd08ed.js"
+  ]
+}
