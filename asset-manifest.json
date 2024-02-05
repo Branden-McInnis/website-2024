@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/website-2024/static/css/main.9464d392.css",
-    "main.js": "/website-2024/static/js/main.82cfbcce.js",
+    "main.css": "/website-2024/static/css/main.c8e86c15.css",
+    "main.js": "/website-2024/static/js/main.9fcbb81c.js",
     "static/media/Branden.png": "/website-2024/static/media/Branden.560aa4639dfd901f0706.png",
     "index.html": "/website-2024/index.html",
-    "main.9464d392.css.map": "/website-2024/static/css/main.9464d392.css.map",
-    "main.82cfbcce.js.map": "/website-2024/static/js/main.82cfbcce.js.map"
+    "main.c8e86c15.css.map": "/website-2024/static/css/main.c8e86c15.css.map",
+    "main.9fcbb81c.js.map": "/website-2024/static/js/main.9fcbb81c.js.map"
   },
   "entrypoints": [
-    "static/css/main.9464d392.css",
-    "static/js/main.82cfbcce.js"
+    "static/css/main.c8e86c15.css",
+    "static/js/main.9fcbb81c.js"
   ]
 }
